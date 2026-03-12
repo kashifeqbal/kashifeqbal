@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://kashifeqbal.com"><img src="https://img.shields.io/badge/Website-kashifeqbal.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://x.com/kashifeqbal"><img src="https://img.shields.io/badge/X-@kashifeqbal-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kashifeqbal"><img src="https://img.shields.io/badge/LinkedIn-Kashif%20Eqbal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/eqbal_kashif"><img src="https://img.shields.io/badge/X-@kashifeqbal-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kashifeqbal/"><img src="https://img.shields.io/badge/LinkedIn-Kashif%20Eqbal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
