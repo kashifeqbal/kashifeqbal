@@ -31,9 +31,9 @@
 
 ### Open source
 
+- [**Agent Control Plane**](https://github.com/kashifeqbal/agent-control-plane) — tenant-isolated retrieval, approval-gated tools, durable run state and tamper-evident audit events
 - [**WatchClaw**](https://github.com/kashifeqbal/watchclaw) — Linux hardening, behavioural threat scoring, honeypots, automated bans, alerts and cross-node threat sharing
-- [**TeamClaw**](https://github.com/kashifeqbal/teamclaw) — one-command setup for a production-ready team agent stack on Ubuntu
-- [**hindsight-pageindex**](https://github.com/kashifeqbal/hindsight-pageindex) — local-only Hindsight + PageIndex retrieval bridge without a hosted vector database
+- [**TeamClaw**](https://github.com/kashifeqbal/teamclaw) — one-command Ubuntu setup for a team-agent stack with security hardening and rollback
 - [**node-excel-to-json**](https://github.com/kashifeqbal/node-excel-to-json) — earlier Node.js utility for converting spreadsheets into JSON
 
 ---
